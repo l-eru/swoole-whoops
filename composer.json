@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "autoload": {
-            "L\\SwooleWhoops": "src/"
+            "L\\SwooleWhoops\\": "src/"
         }
     }
 }
